@@ -1,6 +1,6 @@
 """
 Second-hand Marketplace
-author: Haomeng DU
+author: Haomeng DU, also Hugh Declan
 """
 
 from typing import Dict, List, Tuple, Optional, Callable
