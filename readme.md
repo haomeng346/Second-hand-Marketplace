@@ -1,4 +1,4 @@
-### This readme.md generate by ChatGPT-5, the content revised by Haomeng DU.
+
 
 ---
 
@@ -202,5 +202,5 @@ COMP9001 Final project use only.
 
 Haomeng DU
 
-sid: 550646417
+also, Hugh Declan
 
